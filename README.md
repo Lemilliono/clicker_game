@@ -1,1 +1,1 @@
-# clicker_game
+# clicker-game
